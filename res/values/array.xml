@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <array name="elementiDelDrawer">
+		<item>@string/Promesse</item>
+		<item>@string/Riavvia</item>
+		<item>@string/AudioSetting</item>
+       <item>@string/Vibrazione</item>
+        <item>@string/Info</item>
+    </array>
+    
+   <array name="preferenzeDialog">
+       <item>@string/Audio</item>
+       <item>@string/avanzamentoAutomatico</item>
+   </array>
+</resources>

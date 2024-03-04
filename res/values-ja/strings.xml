@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">聖ミカエルのロザリオ</string>
+    <!-- preghiere classiche -->
+    <string name="textViewSegnoCroce">父と子と聖霊のみ名によって。</string>
+    <string name="padreNostro">天におられるわたしたちの父よ、 み名が聖とされますように。 み国が来ますように。 みこころが天に行われるとおり地にも行われますように。 わたしたちの日ごとの糧を今日も お与えください。 わたしたちの罪をおゆるしください。わたしたちも人をゆるします。 わたしたちを誘惑におちいらせず、 悪からお救いください。アーメン。</string>
+    <string name="aveMaria">アヴェ、マリア、恵みに満ちた方、  主はあなたとともにおられます。  あなたは女のうちで祝福され、  ご胎内の御子イエスも祝福されています。  神の母聖マリア、  わたしたち罪びとのために、  今も、死を迎える時も、お祈りください。  アーメン。</string>
+    <string name="ioCredo">わたしは信じます。唯一の神、 全能の父、 天と地、 見えるもの、見えないもの、すべてのものの造り主を。 わたしは信じます。唯一の主イエス・キリストを。 主は神のひとり子、 すべてに先立って父より生まれ、 神よりの神、光よりの光、まことの神よりのまことの神、 造られることなく生まれ、父と一体。 すべては主によって造られました。 主は、わたしたち人類のため、 わたしたちの救いのために天からくだり、 聖霊によって、おとめマリアよりからだを受け、 人となられました。 ポンティオ・ピラトのもとで、 わたしたちのために十字架につけられ、 苦しみを受け、葬られ、聖書にあるとおり三日目に復活し、 天に昇り、父の右の座に着いておられます。 主は、生者 と死者を裁くために 栄光のうちに再び来られます。 その国は終わることがありません。 わたしは信じます。主であり、いのちの与え主である聖霊を。 聖霊は、父と子から出て、 父と子とともに礼拝され、栄光を受け、 また預言者をとおして語られました。 わたしは、聖なる、普遍の、使徒的、唯一の教会を信じます。 罪のゆるしをもたらす唯一の洗礼を認め、 死者の復活と 来世のいのちを待ち望みます。アーメン。</string>
+    <string name="oDio">主よ、われをいそぎ救けたまえ。 天主よ、わが助けに来たりたまえ。</string>
+    <string name="gloria">栄光は、 父と子と聖霊に、 始めのように、 今も、いつも、世々。アーメン。</string>
+    <!-- preghiere classiche -->
+
+    <!-- preghiere san michele_intro -->
+    <string name="micheleDifendici">San Michele Arcangelo, difendici nella lotta, per essere salvati nell\'estremo giudizio.</string>
+    <string name="primaInvocazione">聖ミカエルと熾天使(セラフィム)の天軍のおん取次ぎによりて、主が、われらをして完全なる愛徳の火に燃ゆる者とならしめたまわんことを！アーメン。</string>
+    <string name="secondaInvocazione">聖ミカエルと智天使(ケルビム)の天軍のおん取次ぎによりて、主が、われらに罪の道をはなれ、完徳の道にすすむ聖寵を与えたまわんことを！アーメン。</string>
+    <string name="terzaInvocazione">聖ミカエルと座天使の天軍のおん取次ぎによりて、主が、われらの心に、真実にして深き謙遜の精神をそそぎたまわんことを！アーメン。</string>
+    <string name="quartaInvocazione">聖ミカエルと主天使の天軍のおん取次ぎによりて、主が、われらの五官を制御し、悪しき情欲を正すおん恵みを与えたまわんことを！アーメン。</string>
+    <string name="quintaInvocazione">聖ミカエルと力天使の天軍のおん取次ぎによりて、主が、われらの霊魂を悪魔の罠と誘惑より守りたまわんことを！アーメン。</string>
+    <string name="sestaInvocazione">聖ミカエルと能天使のおん取次ぎによりて、主が、われらを試みに引きたまわず、悪より救いたまわんことを！アーメン。</string>
+    <string name="settimaInvocazione">聖ミカエルと権天使のおん取次ぎによりて、主が、われらの霊魂に真実にして心からなる従順の精神をみたしたまわんことを！アーメン。</string>
+    <string name="ottavaInvocazione">聖ミカエルと大天使のおん取次ぎによりて、主が、われらに堅忍をもって信仰と善行にはげみ、天国の光栄に達する恵みを与えたまわんことを！アーメン。</string>
+    <string name="nonaInvocazione">聖ミカエルと諸天使の天軍のおん取次ぎによりて、主が、かれらをして、この世においてはわれらを守らしめ、やがて天国の永遠の光栄にまで、われらを導かしめたまわんことを！アーメン。</string>
+    <string name="onoreSanMichele">Our Father, in honour of Saint Michael.</string>
+    <string name="onoreSanGabriele">Our Father, in honour of Saint Gabriel.</string>
+    <string name="onoreSanRaffaele">Our Father, in honour of Saint Raphael.</string>
+    <string name="onoreAngeloCustode">Our Father, in honour of Guardian Angel.</string>
+    <string name="preghieraFinale">いとも栄えある聖ミカエル、天軍の第一の頭にして総帥、霊魂の忠実なる守護者、悪しき霊の征服者、天主の家の寵児(ちょうじ)、イエズス・キリストに次ぐわれらの感ずべき導き手、位においても徳においてもすべてにすぐれたる大天使よ、願わくは、信頼もて、おんみに寄り頼むわれらを、あらゆる悪より救いたまえ。しかして、おんみのたぐいなき御保護によりて、われらをして日々天主にますます忠実に仕えまつるを得しめたまえ。
+    \nイエズス・キリストの聖会の統率者、幸いなる聖ミカエルよ、われらのために祈りたまえ。
+    \nわれらが主のおん約束にかなう者とならんために。
+    \n全能永遠なる天主、主はかぎりなきおん慈しみとおん憐れみによりて、全人類の救済のため、いとも栄えある大天使聖ミカエルをおんみの聖会の統率者とえらみたまえり。願わくは、そのねんごろなる御保護によりて、われらがあらゆる悪しき敵よりのがれ死に際しては、いかなる悪の手にもおびやかさるることなく、至聖なるおんみの御前に、かれによりて導かるる幸いを得しめたまえ。
+    われらの主、イエズス・キリストのおん功徳によりて！アーメン。</string>
+    <string name="preghieraOrazione">終りに聖ミカエルへの「交唱」と、聖父への「祈願」を祈る。</string>
+    <!-- preghiere san michele_intro -->
+
+    <!-- varie -->
+    <string name="saiComeSiRecita">チャプレットあなたは知っていますか？</string>
+    <string name="YesButton">はい</string>
+    <string name="NoButton">いいえ</string>
+    <string name="End">終わり</string>
+    <string name="Riavvia">再発足</string>
+    <string name="Info">情報</string>
+    <string name="Cancel">キャンセル</string>
+
+    <!-- promesse coroncina san michele_intro -->
+    <string name="TitoloPromesseMichele">約束</string>
+    <string name="PromesseMichele">聖ミカエルは天主のすぐれたるはしためアントニア・ダストナックに現れ、彼への表敬として、天使の九隊に対する祝詞をつくることを望むと言われた。
+この天使のロザリオを唱える者に、大天使は、「天軍九隊のうちから、えらばれた九位の天使によって、御聖体拝領のとき、付き添われること」を約束された。この九つの天使への祝詞を、毎日唱える者には一生の間「大天使の御保護」と死後は「本人とその家族のため、煉獄からの解放」を約束された。以上が、この「聖ミカエルのロザリオ」の起源である。\n</string>
+    <!-- promesse coroncina san michele_intro -->
+</resources>

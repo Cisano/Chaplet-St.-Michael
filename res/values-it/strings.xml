@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Coroncina a San Michele Arcangelo</string>
+
+	<!-- preghiere classiche -->
+    <string name="textViewSegnoCroce">Nel nome del Padre, del Figlio e dello Spirito Santo. Amen.</string>
+    <string name="padreNostro">Padre nostro, che sei nei cieli, sia santificato il tuo nome, venga il tuo regno, sia fatta la tua volontà, come in cielo così in terra. Dacci oggi il nostro pane quotidiano, e rimetti a noi i nostri debiti come anche noi li rimettiamo ai nostri debitori, e non abbandonarci alla tentazione, ma liberaci dal male. Amen.</string>
+	<string name="aveMaria">Ave Maria, piena di grazia, il Signore è con te. Tu sei benedetta fra le donne e benedetto è il frutto del tuo seno, Gesù. Santa Maria, Madre di Dio, prega per noi peccatori, adesso e nell\'ora della nostra morte. Amen.</string>
+	<string name="ioCredo">Io credo in Dio, Padre onnipotente, creatore del cielo e della terra; e in Gesù Cristo, suo unico Figlio, nostro Signore, il quale fu concepito di Spirito Santo, nacque da Maria Vergine, patì sotto Ponzio Pilato, fu crocifisso, morì e fu sepolto; discese agli inferi; il terzo giorno resuscitò da morte; salì al cielo, siede alla destra di Dio Padre onnipotente; di là verrà a giudicare i vivi e i morti. Credo nello Spirito Santo, la santa Chiesa cattolica, la comunione dei santi, la remissione dei peccati, la risurrezione della carne, la vita eterna. Amen.</string>
+	<string name="oDio">O Dio, vieni a salvarmi. Signore, vieni presto in mio aiuto.</string>
+	<string name="gloria">Gloria al Padre e al Figlio e allo Spirito Santo. Come era nel principio, e ora e sempre, nei secoli dei secoli. Amen.</string>
+	<!-- preghiere classiche-->
+
+	<!-- preghiere san michele_intro -->
+	<string name="micheleDifendici">San Michele Arcangelo, difendici nella lotta, per essere salvati nell\'estremo giudizio.</string>
+	<string name="primaInvocazione">Ad intercessione di san Michele Arcangelo e del celeste Coro dei Serafini, ci renda il Signore degni della fiamma di perfetta carità.</string>
+	<string name="secondaInvocazione">Ad intercessione di san Michele Arcangelo e del Coro celeste dei Cherubini, voglia il Signore darci grazia di abbandonare la vita del peccato e correre in quella della cristiana perfezione.</string>
+	<string name="terzaInvocazione">Ad intercessione di san Michele Arcangelo e del sacro Coro dei Troni, infonda il Signore nei nostri cuori lo spirito di vera e sincera umiltà.</string>
+	<string name="quartaInvocazione">Ad intercessione di san Michele Arcangelo e del Coro celeste delle Dominazioni, ci dia grazia il Signore di dominare i nostri sensi e correggere le corrotte passioni.</string>
+	<string name="quintaInvocazione">Ad intercessione di san Michele Arcangelo e del celeste Coro delle Potestà, il Signore si degni di proteggere le anime nostre dalle insidie e tentazioni del demonio.</string>
+	<string name="sestaInvocazione">Ad intercessione di san Michele Arcangelo e del Coro delle ammirabili Virtù celesti, non permetta il Signore che cadiamo nelle tentazioni, ma ci liberi dal male.</string>
+	<string name="settimaInvocazione">Ad intercessione di san Michele Arcangelo e del Coro celeste dei Principati, riempia Dio le anime nostre dello spirito di vera e sincera obbedienza.</string>
+	<string name="ottavaInvocazione">Ad intercessione di san Michele Arcangelo e del Coro celeste degli Arcangeli, ci conceda il Signore il dono della perseveranza nella fede e nelle opere buone, per poter giungere all\'acquisto della gloria del Paradiso.</string>
+	<string name="nonaInvocazione">Ad intercessione di san Michele Arcangelo e del Coro celeste di tutti gli Angeli, si degni il Signore concederci di essere da essi custoditi nella vita presente e poi introdotti nella gloria dei cieli.</string>
+	<string name="onoreSanMichele">Un Padre nostro, in onore di san Michele Arcangelo.</string>
+	<string name="onoreSanGabriele">Un Padre nostro, in onore di san Gabriele Arcangelo.</string>
+	<string name="onoreSanRaffaele">Un Padre nostro, in onore di san Raffaele Arcangelo.</string>
+	<string name="onoreAngeloCustode">Un Padre nostro, in onore dell\'Angelo Custode.</string>
+	<string name="preghieraFinale">Glorioso principe san Michele, capo e guida degli eserciti celesti, depositario delle anime, debellatore degli spiriti ribelli, nostro condottiero ammirabile, degnati di liberare da ogni male tutti noi che, con fiducia, ricorriamo a te e concedici con la tua valida protezione di servire ogni giorno fedelmente il nostro Dio.
+		\nPrega per noi Arcangelo san Michele Gesù Cristo Signore nostro.
+		\nE saremo Resi degni delle sue promesse.
+		\nDio onnipotente ed eterno, che con prodigio di bontà e misericordia, per la salvezza degli uomini hai eletto a principe della tua Chiesa il glorioso san Michele, concedici, mediante la sua benefica protezione, di essere liberati da tutti i nostri spirituali nemici. Nell\'ora della nostra morte non ci molesti l\'antico avversario, ma sia il tuo arcangelo Michele a condurci alla presenza della tua divina Maestà. Amen.</string>
+	<string name="preghieraOrazione">Preghiera e Orazione.</string>
+	<!-- preghiere san michele_intro -->
+
+	<!-- varie -->
+	<string name="saiComeSiRecita">Sai come si recita la coroncina?</string>
+	<string name="YesButton">Sì</string>
+	<string name="NoButton">No</string>
+    <string name="End">Fine</string>
+	<string name="Riavvia">Riavvia</string>
+	<string name="Info">Info</string>
+	<string name="Cancel">Annulla</string>
+	<string name="OK">OK</string>
+	<string name="AudioSetting">Impostazioni audio</string>
+	<string name="Audio">Audio</string>
+	<string name="avanzamentoAutomatico">Avanzamento automatico (funziona solo se l\'audio è attivo)</string>
+	<string name="Donazione">Offerta</string>
+	<string name="Attenzione">Attenzione!</string>
+	<string name="vuoiRicominciare">Vuoi ricominciare?</string>
+	<string name="Promesse">Promesse</string>
+	<string name="not_available">Non disponibile per questa versione di Android</string>
+	<!-- varie -->
+
+	<!-- promesse coroncina san michele_intro -->
+	<string name="TitoloPromesseMichele">Le promesse di San Michele Arcangelo</string>
+	<string name="PromesseMichele">Quando San Michele apparve alla serva di Dio e sua devota Antonia d\'Astonaco in Portogallo, le disse di voler essere venerato con nove salutazioni, corrispondenti ai nove Cori degli Angeli.
+\nPromise a chi lo venerasse in tal modo prima della Santa Comunione di ottenere che venga assegnato a questa persona un Angelo di ciascun dei nove Cori per accompagnarla quando andrà a ricevere la Santa Comunione e a chi avesse recitato queste nove salutazioni ogni giorno, promise l\'assistenza continua sua e degli Angeli Santi durante la sua vita. Dopo la morte tale persona avrebbe ottenuto la liberazione della sua anima e di quella dei suoi parenti dalle pene del Purgatorio.\n</string>
+	<!-- promesse coroncina san michele_intro -->
+
+</resources>

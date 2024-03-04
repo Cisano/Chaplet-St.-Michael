@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Chapelets chrétien</string>
+
+	<!-- preghiere classiche -->
+	<string name="textViewSegnoCroceEsperti">Commencez par faire le signe de la croix.</string>
+	<string name="textViewSegnoCroce">Commencez par faire le signe de la croix.\nAu nom du Père, et du Fils et du Saint-Esprit. Amen.</string>
+	<string name="textViewSegnoCroceFinale">Terminer en faisant le signe de la croix.\nAu nom du Père, et du Fils et du Saint-Esprit. Amen.</string>
+	<string name="textViewSegnoCroceEspertiFine">Terminer en faisant le signe de la croix.</string>
+	<string name="padreNostro">Notre Père, qui es aux Cieux, Que ton nom soit sanctifié, Que ton règne vienne, Que ta volonté soit faite Sur la terre comme au ciel. Donne-nous aujourd\'hui notre pain de ce jour, Pardonne-nous nos offenses Comme nous pardonnons aussi à ceux qui nous ont offensés, Et ne nous soumets pas à la tentation, Mais délivre-nous du mal. Amen.</string>
+	<string name="aveMaria">Je vous salue, Marie pleine de grâces; Le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes Et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, Priez pour nous, pauvres pécheurs, Maintenant, et à l\'heure de notre mort. Amen.</string>
+	<string name="ioCredo">Je crois en Dieu, le Père Tout-Puissant, Créateur du ciel et de la terre. Et en Jésus-Christ, son Fils unique, notre Seigneur, qui a été conçu du Saint Esprit, est né de la Vierge Marie, a souffert sous Ponce Pilate, a été crucifié, est mort et a été enseveli, est descendu aux enfers. Le troisième jour est ressuscité des morts, est monté aux cieux est assis à la droite de Dieu, le Père Tout-Puissant, d\'où Il viendra juger les vivants et les morts. Je crois en l\'Esprit Saint, à la sainte Église catholique, à la communion des saints, à la rémission des péchés, à la résurrection de la chair, à la vie éternelle. Amen.</string>
+	<string name="invocazione">O Dieu viens à mon aide, Seigneur, hâte-toi de me secourir. Gloire au Père, au Fils, et au Saint-Esprit, comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.</string>
+	<!-- preghiere classiche-->
+
+	<!-- preghiere coroncina misericordia -->
+	<string name="eternoPadre">Père Éternel, je T\'offre le Corps et le Sang, l\'Âme et la Divinité de Ton Fils bien-aimé, Notre Seigneur Jésus-Christ, en réparation de nos péchés et de ceux du monde entier.</string>
+	<string name="perLaSua">Par Sa douloureuse Passion, prends pitié de nous et du monde entier.</string>
+	<string name="santoDio">Saint Dieu, Saint Fort, Saint Immortel, prends pitié de nous et du monde entier.</string>
+	<string name="oSangue">Ô Sang et Eau qui avez jailli du Cœur de Jésus comme source de miséricorde pour nous, j\'ai confiance en Vous.</string>
+	<!-- preghiere coroncina misericordia -->
+
+	<!-- preghiere san michele_intro -->
+	<string name="micheleDifendici">Saint Michel Archange, défendez-nous dans le combat pour que nous ne périssions pas au jour du Jugement.</string>
+	<string name="primaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste des Séraphins, que le Seigneur nous rende dignes d\'être enflammés d\'une parfaite charité.</string>
+	<string name="secondaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste des Chérubins, que le Seigneur nous fasse la grâce d\'abandonner la voie du péché et de courir dans celle de la perfection chrétienne.</string>
+	<string name="terzaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste des Trônes, que le Seigneur répande dans nos cœurs l\'esprit d\'une véritable et sincère humilité.</string>
+	<string name="quartaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste des Dominations, que le Seigneur nous fasse la grâce de dominer nos sens et de nous corriger de nos mauvaises passions.</string>
+	<string name="quintaInvocazione">Par l\'intercession de Saint Michel et du Chœur admirable des Vertus célestes, que le Seigneur ne nous laisse pas succomber à la tentation, mais qu\'il nous délivre du mal.</string>
+	<string name="sestaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste des Puissances, que le Seigneur daigne protéger nos âmes contre les embûches et les tentations du démon.</string>
+	<string name="settimaInvocazione">Par l\'intermédiaire de Saint Michel et du Chœur céleste des Principautés, que le Seigneur remplisse nos âmes de l\'esprit d\'une véritable et sincère obéissance.</string>
+	<string name="ottavaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste des Archanges, que le Seigneur nous accorde le don de la Persévérance dans la foi et dans les bonnes œuvres, pour pouvoir arriver à la possession de la gloire du Paradis.</string>
+	<string name="nonaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste de tous les Anges, que le Seigneur daigne nous accorder d\'être gardés par eux pendant cette vie mortelle, pour être conduits ensuite à la gloire éternelle du ciel.</string>
+	<string name="onoreSanMichele">Notre Père, en l\'honneur de Saint Michel Archange.</string>
+	<string name="onoreSanGabriele">PNotre Père, en l\'honneur de Saint Gabriel Archange.</string>
+	<string name="onoreSanRaffaele">Notre Père, en l\'honneur de Saint Raphaël Archange.</string>
+	<string name="onoreAngeloCustode">Notre Père, en l\'honneur de notre Ange gardien.</string>
+	<string name="Antifona">Très glorieux Saint Michel, Chef et Prince des armées célestes, gardien fidèle des âmes, vainqueur des esprits rebelles, favori de la maison de Dieu, notre admirable guide après Jésus-Christ, vous dont l’excellence et la vertu sont suréminentes : daignez nous délivrer de tous les maux, nous tous qui recourons à vous avec confiance, et faites par votre incomparable protection, que nous avancions chaque jour dans la fidélité à servir Dieu.
+\nPriez pour nous, ô bienheureux Saint Michel, Prince de l\'Église de Jésus-Christ. Afin que nous puissions être dignes de ses promesses.</string>
+	<string name="OrazioneFinaleMichele">Dieu tout puissant et éternel, qui par un prodige de bonté et de miséricorde pour le salut commun des hommes, avez choisi pour prince de votre Église le Très Glorieux Archange Saint Michel; rendez-nous dignes, nous vous en prions, d\'être délivrés, par sa bienveillante protection, de tous nos ennemis, afin qu\'à notre mort aucun d\'eux ne puisse nous inquiéter, mais qu\'il nous soit donné d’être introduits par lui en présence de votre puissante et auguste majesté. Par Jésus Christ Notre Seigneur. Amen.</string>
+	<string name="AntifonaEsperti">Antienne.</string>
+	<string name="OrazioneFinaleEsperti">Oraison.</string>
+	<!-- preghiere san michele_intro -->
+
+	<!-- varie -->
+	<string name="nomeCoroncinaMisericordia">Chapelet de la Divine Miséricorde</string>
+	<string name="nomeCoroncinaSanMichele">Chapelet de Saint Michel Archange</string>
+	<string name="nomeCoroncinaSantaBrigida">Chapelet de Sainte Brigitte de Suède</string>
+	<string name="saiComeSiRecita">Pouvez-vous réciter le chapelet?</string>
+	<string name="YesButton">Oui</string>
+	<string name="NoButton">No</string>
+	<string name="Previous">Précédent</string>
+	<string name="Next">Suivant</string>
+	<string name="End">Fin</string>
+	<string name="Riavvia">Redémarrer</string>
+	<string name="Info">Infos</string>
+	<string name="Cancel">Annuler</string>
+	<string name="OK">OK</string>
+	<string name="AudioSetting">Paramètre audio</string>
+	<string name="Audio">Audio</string>
+	<string name="avanzamentoAutomatico">Recitation automatique (uniquement si l\'audio est activé)</string>
+	<string name="Donazione">Donation</string>
+	<string name="Attenzione">Attention!</string>
+	<string name="vuoiRicominciare">Voulez-vous redémarrer?</string>
+	<string name="Promesse">Promesses</string>
+	<string name="Gesu">Jésus Miséricordieux</string>
+	<string name="Coroncina">Chapelet</string>
+	<string name="not_available">Non disponible dans cette version Android</string>
+	<!-- varie -->
+
+	<!-- promesse coroncina misericordia -->
+	<string name="TitoloPromesse">Les promesses par Jésus-Christ à sœur Faustine Kowalska</string>
+	<string name="ConQuestaCoroncina">\'\'Quiconque le dira, accéder à une grande miséricorde à l\'heure de sa mort. Si l\'on récite ce chapelet auprès d\'un agonisant, Je me tiendrai entre le Père et l\'âme agonisante, non pas en tant que Juge juste, mais comme Sauveur miséricordieux. Les prêtres le recommanderont aux pécheurs comme ultime planche de salut; même le pécheur le plus endurci, s\'il récite ce chapelet une seule fois, obtiendra la grâce de Mon infinie miséricorde.\n</string>
+	<string name="TitoloOraDellaMisericordia">L\'Heure de la Miséricorde</string>
+	<string name="GesuRaccomanda">\'\'A trois heures implore ma Miséricorde, tout particulièrement pour les pécheurs, et ne fût-ce que pour un bref instant, plonge-toi dans ma Passion, en particulier dans mon abandon au moment de mon agonie. C\'est là une heure de grande Miséricorde pour le monde entier. Je te laisserai pénétrer ma mortelle tristesse ; en cette heure, je ne saurais rien refuser à l\'âme qui me prie, par ma Passion"\'\'. (Petit Journal, 1320)\n</string>
+	<string name="TitoloImmagineGesu">L\'image du Christ miséricordieux</string>
+	<string name="AnimaCheVenera">\'\'Je promets que l\'âme qui honorera cette image ne sera pas perdue. Je lui promets aussi la victoire sur ses ennemis dès ici-bas, et spécialement à l\'heure de la mort. Moi-même je la défendrai comme Ma propre gloire\'\'. (Petit Journal, 48)\n</string>
+	<string name="FestaDivinaMisericordiaTitolo">La fête de Miséricorde Divine</string>
+	<string name="AnimaCheLaPrima">Jésus dit à Soeur Faustine: \'\'La Fête de la Miséricorde est issue de mes entrailles, je désire qu\'elle soit fêtée solennellement le premier dimanche après Pâques\'\'. (Petit Journal, 299)\n\'\'Je désire que la fête de la miséricorde soit le recours et le refuge pour toutes les âmes, et surtout pour les pauvres pécheurs. En ce jour les entrailles de ma miséricorde sont ouvertes, je déverse tout un océan de grâces sur les âmes qui s\'approcheront de la source de ma miséricorde; toute âme qui se confessera et communiera recevra le pardon complet de ses fautes et la remise de leur punition ; en ce jour sont ouvertes toutes les sources divines par lesquelles s'écoulent les grâces; qu\'aucune âme n\'ait peur de s'approcher de Moi, même si ses péchés sont comme l\'écarlate.\'\'. (Petit Journal, 699)\n</string>
+	<string name="TitoloDiffusioneCulto">Diffusion de la dévotion à la Divine Miséricorde</string>
+	<string name="ATutti">\'\'Les âmes qui propagent la vénération de ma miséricorde, je les protège durant toute leur vie, comme une tendre mère son nourrisson, et à l\'heure de la mort, je ne serai pas pour elles un Juge, mais le Sauveur miséricordieux\'\'. (Petit Journal, 604)\n</string>
+	<!-- promesse coroncina misericordia -->
+
+	<!-- promesse coroncina san michele_intro -->
+	<string name="TitoloPromesseMichele">Les promesses de Saint Michel</string>
+	<string name="PromesseMichele">Saint Michel révéla à Antonia d\'Astonac, dévouée servante de Dieu, qu\'il voulait que l\'on compose en son honneur neuf salutations correspondant aux neuf Choeurs des Anges avec un \'\'Notre Père\'\' et trois \'\'Je vois salue Marie\'\' en l\'honneur de chaque Choeur des Anges. Il promait, à ceux qui le venereraient de cette manière avant de prendre la communion, qu\'un ange de chacun des neuf Choeurs des Anges l\'accompagnera pour recevoir la communion.
+A ceux qui réciteraient ce Chapelet, il assurait sa protection continuelle pendant la vie, et, après la mort, la délivrance du purgatoire.\n</string>
+	<!-- promesse coroncina san michele_intro -->
+
+	<!-- promesse coroncina santa brigida -->
+	<string name="TitoloPromesseBrigida">Les promesses à Brigitte de Suède</string>
+	<string name="PromesseBrigida">1) Sette anni e sette quarantene ogni volta che si recita; e inoltre cento giorni per ogni Pater, Ave e Credo.\n
+		2) Indulgenza plenaria in articolo mortis, per chi l\'avrà recitata almeno una volta la settimana; e un\'altra indulgenza plenaria una volta al mese, per chi la recita ogni giorno.\n
+		3) Quaranta giorni per chi, tenendola indosso, prega al suono della campana, per un agonizzante, farà l\'esame di coscienza e dirà Pater ed Ave.\n
+		4) Venti giorni per chi, avendola indosso, farà l\'esame di coscienza e dirà Pater ed Ave.\n
+		5) Cento giorni per chi, portandola indosso, ascolterà la S. Messa, o la parola di Dio, o accompagnerà il Santo Viatico, o farà qualche opera buona in onore di Nostro Signore Gesù Cristo, di Maria SS.ma o di Santa Brigida, recitando tre Pater ed Ave.</string>
+	<!-- promesse coroncina santa brigida -->
+
+</resources>

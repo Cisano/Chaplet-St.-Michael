@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chaplet of St. Michael</string>
+
+	<string name="drawer_open">Open Drawer</string>
+	<string name="drawer_close">Close Drawer</string>
+
+
+	<!-- preghiere classiche -->
+    <string name="textViewSegnoCroce">In the name of the Father, and of the Son and of the Holy Spirit. Amen.</string>
+    <string name="padreNostro">Our Father in heaven, hallowed be your name. Your kingdom come, your will be done, on earth as it is in heaven. Give us this day our daily bread, and forgive us our debts, as we also have forgiven our debtors. And lead us not into temptation, but deliver us from evil. Amen.</string>
+	<string name="aveMaria">Hail Mary, full of grace. Our Lord is with you. Blessed are you among women, and blessed is the fruit of your womb, Jesus. Holy Mary, Mother of God, pray for us sinners, now and at the hour of our death. Amen.</string>
+	<string name="ioCredo">I believe in God, the Father almighty, Creator of heaven and earth, and in Jesus Christ, his only Son, our Lord, who was conceived by the Holy Spirit, born of the Virgin Mary, suffered under Pontius Pilate, was crucified, died and was buried; he descended into hell; on the third day he rose again from the dead; he ascended into heaven, and is seated at the right hand of God the Father almighty; from there he will come to judge the living and the dead. I believe in the Holy Spirit, the holy catholic Church, the communion of saints, the forgiveness of sins, the resurrection of the body, and life everlasting. Amen.</string>
+	<string name="oDio">O God, come to my assistance. O Lord, make haste to help me.</string>
+	<string name="gloria">Glory be to the Father, to the Son, and to the Holy Spirit. As it was in the beginning, is now and ever shall be, world without end. Amen.</string>
+	<!-- preghiere classiche-->
+
+	<!-- preghiere san michele_intro -->
+	<string name="micheleDifendici">saint Michael the Archangel, defend us in battle, to be saved in the extreme judgment.</string>
+	<string name="primaInvocazione">By the intercession of saint Michael and the celestial Choir of Seraphim may the Lord make us worthy to burn with the fire of perfect charity.</string>
+	<string name="secondaInvocazione">By the intercession of saint Michael and the celestial Choir of Cherubim may the Lord grant us the grace to leave the ways of sin and run in the paths of Christian perfection.</string>
+	<string name="terzaInvocazione">By the intercession of saint Michael and the celestial Choir of Thrones may the Lord infuse into our hearts a true and sincere spirit of humility.</string>
+	<string name="quartaInvocazione">By the intercession of saint Michael and the celestial Choir of Dominions may the Lord give us grace to govern our senses and overcome any unruly passions.</string>
+	<string name="quintaInvocazione">By the intercession of saint Michael and the celestial Choir of Virtues may the Lord preserve us from evil and falling into temptation.</string>
+	<string name="sestaInvocazione">By the intercession of saint Michael and the celestial Choir of Powers may the Lord protect our souls against the snares and temptations of the devil.</string>
+	<string name="settimaInvocazione">By the intercession of saint Michael and the celestial Choir of Principalities may God fill our souls with a true spirit of obedience.</string>
+	<string name="ottavaInvocazione">By the intercession of saint Michael and the celestial Choir of Archangels may the Lord give us perseverance in faith and in all good works in order that we may attain the glory of Heaven.</string>
+	<string name="nonaInvocazione">By the intercession of saint Michael and the celestial Choir of Angels may the Lord grant us to be protected by them in this mortal life and conducted in the life to come to Heaven.</string>
+	<string name="onoreSanMichele">Our Father, in honour of saint Michael.</string>
+	<string name="onoreSanGabriele">Our Father, in honour of saint Gabriel.</string>
+	<string name="onoreSanRaffaele">Our Father, in honour of saint Raphael.</string>
+	<string name="onoreAngeloCustode">Our Father, in honour of Guardian Angel.</string>
+	<string name="preghieraFinale">Glorious saint Michael, leader and prince of the celestial armies, faithful custodian of souls, victorious over rebellious spirits, relative of the house of God, admirable guide after Jesus Christ, of superhuman excellence and virtue, deliver us from every evil to those that with confidence resort to you through your incomparable protection we advance every day in saintly service of God.
+\nPray for us, glorious St. Michael, Prince of the Church of Jesus Christ.
+\nSo that we may be worthy to reach its promises.
+\nAlmighty and Eternal God, through a prodigy of your kindness and mercy in favor of the common salvation of men, you chose for Prince of your Church the most glorious Archangel saint Michael, we beg to be freed by his powerful protection from all of our enemies, so that in the hour of our death, none of them manages to disturb us, so that he himself can usher us into the celestial mansion to eternally contemplate your august and divine Majesty.  By the merits of our Lord Jesus Christ. Amen.</string>
+	<string name="preghieraOrazione">Anthem and Prayer.</string>
+	<!-- preghiere san michele_intro -->
+
+	<!-- varie -->
+	<string name="nomeCoroncinaSanMichele">Chaplet of St. Michael</string>
+	<string name="saiComeSiRecita">Do you know the chaplet?</string>
+	<string name="YesButton">Yes</string>
+	<string name="NoButton">No</string>
+    <string name="End">End</string>
+	<string name="Riavvia">Restart</string>
+	<string name="Info">Info</string>
+	<string name="Cancel">Cancel</string>
+	<string name="OK">OK</string>
+	<string name="AudioSetting">Audio setting</string>
+	<string name="Audio">Audio</string>
+	<string name="avanzamentoAutomatico">Automatic forward (works only if the audio is ON)</string>
+	<string name="Donazione">Donation</string>
+	<string name="Attenzione">Attention!</string>
+	<string name="vuoiRicominciare">Do you want restart?</string>
+	<string name="Promesse">Promises</string>
+    <string name="Coroncina">Chaplet</string>
+	<string name="not_available">Not available for this Android version</string>
+	<string name="Vibrazione">Vibration</string>
+	<!-- varie -->
+
+
+	<!-- promesse coroncina san michele_intro -->
+	<string name="TitoloPromesseMichele">The promises of saint Michael</string>
+	<string name="PromesseMichele">saint Michael appeared to Antonia d\'Astonac, a devout Servant of God.  He told her that he wished to be honored by nine salutations to the nine Choirs of Angels with one Our Father and three Hail Marys to honor each Angelic choir.
+He promised whoever venerates him in this way before receiving Holy Communion - an Angel of each of the nine Choirs of Angels would be assigned to accompany this person to receive Holy Communion.\n
+saint Michael also promised his continual assistance during life and likewise that of the Holy Angels to all who would recite the nine Salutations every day.  Also, after death the deliverance of their souls and those of their relatives from the pains of Purgatory.\n</string>
+    <!-- promesse coroncina san michele_intro -->
+
+
+	<string name="Contributi">"Programmer: Cisano\nemail: cisano.appdev@gmail.com
+\nThanks for the help to:
+\nKarine Elisa Maluf - Amparo M. Fernandez Grippo - Carlos Romero Garcìa - Jocelyne Haddad - Katarzyna Łapińska-Pontillo - Tomek Romanowski - Dariusz Kołakowski - Indri - Nicoleta - Leho - Horváth Judit - Anita Lasic - Vanessa Murielle - Troy Bartido - Geraldine - Israel Paez Lucero - Dejan Pop - Norbel Vizcayno Paulan - Noel Patrick - Nicola Torresi - Eric Glock - V.C. - Véronique Grossmann
+\nFor the App in any other language, please contact me and help me to translate it into your language.
+\nFor best audio speech, use Google Text-to-speech"</string>
+
+</resources>

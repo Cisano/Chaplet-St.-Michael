@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent" android:layout_height="wrap_content" android:background="#ffffff"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+<TableLayout
+    android:layout_height="wrap_content" android:layout_width="fill_parent">
+<TextView android:layout_height="wrap_content"
+          android:layout_gravity="center_horizontal"
+          android:layout_margin="10dip"
+          android:layout_width="fill_parent"
+    android:textColor="#000000"
+          android:text="Programmer: Cisano\nemail: cisano.appdev@gmail.com
+          \n
+\nThanks for the help to:
+\nKarine Elisa Maluf - Amparo M. Fernandez Grippo - Carlos Romero Garcìa - Jocelyne Haddad - Katarzyna Łapińska-Pontillo
+ - Tomek Romanowski - Dariusz Kołakowski - Indri - Nicoleta - Leho - Horváth Judit - Anita Lasic - Vanessa Murielle
+  - Troy Bartido - Geraldine - Israel Paez Lucero - Dejan Pop - Norbel Vizcayno Paulan - Noel Patrick
+\n
+\nFor the App in any other language, please contact me and help me to translate it into your language.\n
+\nFor best audio speech, use Google Text-to-speech"></TextView>
+            <Button android:text="Ok" android:id="@+id/button1"
+                android:layout_height="wrap_content"
+                android:layout_gravity="bottom|center_horizontal"
+                android:layout_width="match_parent"
+                tools:ignore="HardcodedText"></Button>
+       </TableLayout>
+       </ScrollView>

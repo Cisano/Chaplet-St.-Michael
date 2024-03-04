@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Coroniţa Sfântului Arhanghel Mihail</string>
+    <string name="textViewSegnoCroce">În numele Tatălui şi-al Fiului şi-al Sfântului Duh, Amin.</string>
+    <string name="padreNostro">Tatăl nostru Care ești în ceruri, sfințească-se numele Tău, vie împărăția Ta, fie voia Ta, precum în cer așa și pe Pământ. Pâinea noastră cea de toate zilele, dă-ne-o nouă astăzi și ne iartă nouă greșalele noastre precum și noi iertăm greșiților noștri și nu ne duce pe noi în ispită ci ne izbăvește de cel rău. Că a Ta este împărăția și puterea și mărirea, acum și pururea și în vecii vecilor. Amin.</string>
+    <string name="aveMaria">Bucură-te; Marie, cea plină de har, Domnul este cu tine, binecuvântată eşti tu între femei, şi binecuvântat este rodul trupului tău Isus. Sfântă Marie, Maica lui Dumnezeu, roagă-te pentru noi păcătoşii, acum şi în ceasul morţii noastre. Amin.</string>
+    <string name="oDio">Dumnezeule, vino în ajutorul meu. Doamne, grabeşte-te să mă ajuţi.</string>
+    <string name="ioCredo">Cred într-unul Dumnezeu Tatăl Atotputernicul, creatorul cerului şi al pământului, al tuturor văzutelor şi nevăzutelor. Cred într-unul Domn, Isus Cristos, Fiul lui Dumnezeu, unul născut care din Tatăl s-a născut mai înainte de toţi vecii, Dumnezeu din Dumnezeu, Lumină din Lumină, Dumnezeu adevărat din Dumnezeu adevărat, născut iar nu creat de o fiinţă cu Tatăl prin care toate s-au făcut. Care pentru noi oamenii şi pentru a noastră mântuire s-a coborât din cer, s-a întrupat de la Duhul Sfânt, din Maria Fecioară şi s-a făcut om. A pătimit pentru noi sub Ponţiu Pilat, s-a răstignit, a muritşi s-a îngropat, şi a înviat a treia zi după scripturi, şi s-a suit la ceruri şi şade de-a dreapta Tatălui şi din nou va veni cu mărire să judece pe cei vii şi pe cei morţi. Cred în Duhul Sfânt, Domnul şi de viaţă dătătorul, care de la Tatăl şi de la Fiul purcede, care împreună cu Tatăl şi cu Fiul este adorat şi preamărit şi a grăit prin prooroci. Cred în una sfântă, catolică şi apostolică Biserică; mărturisesc un botez spre iertarea păcatelor, aştept învierea morţilor şi viaţa veşnică. Amin.</string>
+
+    <!-- preghiere san michele_intro -->
+    <string name="micheleDifendici">Staint Michael the Archangel, defend us in battle, to be saved in the extreme judgment.</string>
+    <string name="primaInvocazione">Prin mijlocirea Sf.Arhanghel Mihail şi a Corului ceresc al Serafimilor, să ne facă Dumnezeu vrednici de a fi înflăcăraţi de o caritate desăvârşită.</string>
+    <string name="secondaInvocazione">Prin mijlocirea Sf.Arhanghel Mihail şi a Corului ceresc al Heruvimilor, să ne dea Dumnezeu harul de a renunţa la calea păcatelor şi de a alerga pe calea desăvârşirii creştine.</string>
+    <string name="terzaInvocazione">Prin mijlocirea Sf.Arhanghel Mihail şi a Corului ceresc al Tronurilor, să ne umple Dumnezeu inimile cu o smerenie adevărată şi sinceră.</string>
+    <string name="quartaInvocazione">Prin mijlocirea Sf.Arhanghel Mihail şi a Corului ceresc al Domniilor, să ne dea Dumnezeu harul de a ne stăpâni simţurile şi de a ne înfrânge patimile.</string>
+    <string name="quintaInvocazione">Prin mijlocirea Sf. Arhanghel Mihail şi a Corului ceresc al Virtuţilor, să ne păzească Dumnezeu de rău şi de căderea în ispită.</string>
+    <string name="sestaInvocazione">Prin mijlocirea Sf.Arhanghel Mihail şi a Corului ceresc al Puterilor, să ne protejeze Dumnezeu sufletele de cursele şi ispitirile diavolului.</string>
+    <string name="settimaInvocazione">Prin mijlocirea Sf.Arhanghel Mihail şi a Corului ceresc al Principatelor, să ne umple Dumnezeu sufletele cu o ascultare adevărată.</string>
+    <string name="ottavaInvocazione">Prin mijlocirea Sf.Arhanghel Mihail şi a Corului ceresc al Arhanghelilor, să ne umple Dumnezeu sufletele cu perseverenţa în credinţă şi în lucrările bune, pentru ca să avem parte de Slava Cerească.</string>
+    <string name="nonaInvocazione">Prin mijlocirea Sf.Arhanghel Mihail şi a Corului ceresc al Îngerilor, să ne dea Dumnezeu harul de a fi protejaţi de ei în această viaţă şi de a fi conduşi la viaţa ce va urma în Rai.</string>
+    <string name="onoreSanMichele">Tatal nostru în onoarea Sf.Arhanghel Mihail.</string>
+    <string name="onoreSanGabriele">Tatal nostru în onoarea Sf.Arhanghel Gabriel.</string>
+    <string name="onoreSanRaffaele">Tatal nostru în onoarea Sf.Arhanghel Rafael.</string>
+    <string name="onoreAngeloCustode">Tatal nostru în onoarea Îngerul tău Păzitor.</string>
+    <string name="preghieraFinale">O, Prinţ glorios al Îngerilor, Sfinte Mihaile, conducătorul oştirilor cereşti, păzitorul sufletelor, biruitorul duhurilor răzvrătite, slujitor în casa Împăratului Ceresc și alesul nostru îndrumător, tu care care eşti deosebit şi strălucești prin virtuţi supraomeneşti, eliberează-ne de orice rău, pe noi, cei care apelăm la tine cu încredere, și ajută-ne ca prin protecția ta plină de har să Îi slujim lui Dumnezeu în fiecare zi cu o credinţă din ce în ce mai mare.
+    \nRoagă-te pentru noi, O, glorioase Sf.Mihail, Prinţ al Bisericii lui Isus Cristos, ca să fim vrednici de făgăduințele Lui.
+    \nAtotputernice și Veşnice Dumnezeule, care prin bunăvoinţa și prin dorința Ta milostivă de a-i mântui pe toţi oamenii, l-ai desemnat pe cel mai glorios arhanghel, pe Sfinte Mihail, ca Prinț al Bisericii Tale, Te rugăm fă-ne vrednici să fim eliberați de toţi dușmanii noștri, ca nici unul dintre ei să nu ne poată hărțui în ceasul morții noastre, şi să fim conduşi de el în Împărăţia Ta. Cerem acestea prin meritele lui Isus Cristos, Domnul nostru. Amin.</string>
+    <string name="preghieraOrazione">Rugăciune de încheiere și Să ne rugăm.</string>
+    <!-- preghiere san michele_intro -->
+
+    <!-- promesse coroncina san michele_intro -->
+    <string name="TitoloPromesseMichele">Promisiuni Sfântului Arhanghel Mihail</string>
+    <string name="PromesseMichele">Antónia d’Astónaco a fost o călugăriţă portugheză carmelitană care a avut o revelaţie particulară legată de Sf. Arhanghel Mihail.
+În aceasta revelaţie Arhanghelul Mihail i-a spus devotatei slujitoare a Domnului că doreşte ca el să fie cinstit iar Dumnezeu slăvit printr-o rugăciune cu nouă invocaţii speciale. Aceste nouă invocaţii corespund invocaţiilor către cele nouă coruri de îngeri şi constituie Coroniţa la Sfântul Arhanghel Mihail. Această rugăciune oferă mari beneficii celor care o spun des: un ajutor continuu din partea Sfântului Arhanghel Mihail şi compania câte unui înger din fiecare dintre cele nouă coruri cereşi atunci când cel care se roagă primeşte Sfânta Împărtăşanie. În plus, celor care vor recita zilnic Coroniţa, Sf. Arhanghel Mihail le promite asistenţa sa continuă, ca şi a tuturor îngerilor, pe tot parcursul vieţii. Prin acestă rugăciune, treptat demonii sunt învinşi şi vom primi o Inimă Curată care să ne salveze din Purgator. Aceste binecuvântări se extind şi asupra întregii familii.\n</string>
+    <!-- promesse coroncina san michele_intro -->
+
+
+    <string name="saiComeSiRecita">Cunoști Coroniţa?</string>
+    <string name="YesButton">Da</string>
+ 	<string name="NoButton">Nu</string>
+    <string name="End">Sfarşit</string>
+    <string name="Promesse">Promisiuni</string>
+ 	<string name="Riavvia">Reîncepe</string>
+ 	<string name="Info">Info</string>
+	<string name="Donazione">Donation</string>
+	
+	<string name="Attenzione">Atenţie!</string>
+ 	<string name="vuoiRicominciare">Vrei să reîncepi?</string>
+
+<string name="not_available">Nu este disponibil în această versiune Android</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Krunica Svetom Mihaelu Arkanđelu</string>
+    <string name="textViewSegnoCroce">U ime Oca i Sina i Duha Svetoga. Amen.</string>
+    <string name="padreNostro">Oče naš, koji jesi na nebesima, sveti se ime tvoje. Dođi kraljevstvo tvoje, budi volja tvoja, kako na nebu, tako i na zemlji. Kruh naš svagdanji daj nam danas, i otpusti nam duge naše, kako i mi otpuštamo dužnicima našim. I ne uvedi nas u napast, nego izbavi nas od zla. Amen.</string>
+    <string name="aveMaria">Zdravo Marijo, milosti puna, Gospodin s tobom. Blagoslovljena ti među ženama i blagoslovljen plod utrobe tvoje, Isus. Sveta Marijo, Majko Božja, moli za nas grešnike, sada i na času smrti naše. Amen.</string>
+    <string name="ioCredo">Vjerujem u Boga, Oca svemogućega, Stvoritelja neba i zemlje. I u Isusa Krista, Sina njegova jedinoga, Gospodina našega, koji je začet po Duhu Svetom, rođen od Marije Djevice, mučen pod Poncijem Pilatom, raspet, umro i pokopan, sašao nad pakao, treći dan uskrsnuo od mrtvih; uzašao na nebesa, sjedi o desnu Boga Oca svemogućega, odonud će doći suditi žive i mrtve. Vjerujem u Duha Svetoga, svetu Crkvu katoličku, općinstvo svetih, oproštenje grijeha,uskrsnuće tijela,život vječni. Amen.</string>
+    <string name="saiComeSiRecita">Znate li Krunicu napamet?</string>
+    <string name="YesButton">Da</string>
+ 	<string name="NoButton">Ne</string>
+    <string name="End">Kraj</string>
+    <string name="Promesse">Obećanja</string>
+ 	<string name="Coroncina">Krunica</string>
+ 	<string name="Riavvia">Na početak Krunice</string>
+ 	<string name="Info">Info</string>
+	<string name="Cancel">Natrag</string>
+ 	<string name="OK">OK</string>
+ 	<string name="AudioSetting">Postavke tona</string>
+ 	<string name="Audio">Zvučni</string>
+ 	<string name="avanzamentoAutomatico">Automatsko pokretanje (radi samo ako je zvuk uključen)</string>
+
+	<string name="Attenzione">Pozor!</string>
+ 	<string name="vuoiRicominciare">Želite na početak Krunice?</string>
+
+<string name="not_available">Das Abspielen ist für diese Android Version nicht verfügbar</string>
+	<string name="micheleDifendici">Sveti Mihaele Arhanđele, brani nas u boju da budemo spašeni na posljednjem sudu.</string>
+	<string name="nonaInvocazione">Po zagovoru sveti Mihaela Arkanđela i nebeskoga kora svih Anđela udostoj se Gospodine, udijeliti nam milost, da nas oni u sadašnjem životu čuvaju, a zatim da nas uvedu u vječnu slavu.</string>
+	<string name="ottavaInvocazione">Po zagovoru sveti Mihaela Arkanđela i nebeskoga kora Arkanđela, udjeli nam Gospodine, dar ustrajanosti u vjeri iu dobrim djelima.</string>
+	<string name="settimaInvocazione">Po zagovoru sveti Mihaela Arkanđela i nebeskoga kora Poglavarstava ispuni, Gospodine naše duše pravom i iskrenom poslušnošću.</string>
+	<string name="sestaInvocazione">Po zagovoru sveti Mihaela Arkanđela i kora čudesnih nebeskih Moći, ne daj Gospodine da podlegnemo napastima, nego nas oslobodi od zla.</string>
+	<string name="quintaInvocazione">Po zagovoru sveti Mihaela Arkanđela i nebeskoga kora Vlasti, udostoj se Gospodine zaštititi naše duše od zasjeda i napasti đavla.</string>
+	<string name="quartaInvocazione">Po zagovoru sveti Mihaela Arhanđela i nebeskog kora Gospodstava udijeli nam Gospodine milost, da nadvladamo naša osjetila i ispravimo naše iskvarene strasti.</string>
+	<string name="terzaInvocazione">Po zagovoru sveti Mihaela Arkanđela i svetog kora Prijestolja, ulij Gospodine u naša srca i duh prave i iskrene poniznosti.</string>
+	<string name="secondaInvocazione">Po zagovoru sveti Mihaela Arkanđela i nebeskoga kora Kerubina udostoj se gospodine udijeliti nam milost, da napustimo put grijeha, te krenemo putem krščanske savršenosti.</string>
+	<string name="primaInvocazione">Po zagovoru sveti Mihaela Arkanđela i nebeskoga kora Serafina udostoj se, Gospodine, uspaliti u nama oganj savršene ljubavu svoje.</string>
+	<string name="oDio">Bože, u pomoć mi priteci. Gospodine, pohiti da mi pomogneš.</string>
+	<string name="gloria">Slava Ocu i Sinu i Duhu Svetomu. Kako bijaše na početku, tako i sada i vazda i u vijeke vjekova. Amen.</string>
+	<string name="onoreSanGabriele">Oče naš sveti Gabrijelu.</string>
+	<string name="onoreSanMichele">Oče naš sveti Mihaelu.</string>
+	<string name="onoreSanRaffaele">Oče naš sveti Rafaelu.</string>
+	<string name="onoreAngeloCustode">Oče naš Anđela Čuvara.</string>
+	<string name="preghieraFinale">Svetom Mihaele, preslavni kneže, glavo i vođo nebeske vojske, čuvaru duša, pobjeditelju buntovnih duhova, stanovniče Božjega dvora, poslije Isusa naš divni voditelju, obdaren nadčovječanskom snagom i savršenošću, udostoj se, nas sve, koji se pouzdano k tebi utječemo, od svakoga zla izbaviti i isprosi nam svojim moćnim zagovorom milost da vjerno služeći svome Bogu sve više duhom rastemo. Amen.
+	\nSvetom Mihaele Arkanđele, moli za nas Isusa Krista, Gospodina našega!
+	\nDa budemo dostojni Njegovih obećanja!
+	\nSvemogući vječni Bože, koji si u svojoj divnoj dobroti i milosrđu za spas ljudi izabrao slavnog i svetog Arkanđela Mihaela za kneza svoje Crkve, udijeli nam, da nas on svojim moćnim zagovorom oslobodi od svih naših duhovnih neprijatelja, da se nijedan od njih ne usudi uznemirivati nas u času smrti nego da nas on sam uvede u Tvoju uzvišenu Božansku prisutnost po zaslugama Isusa Krista, Gospodina našega. Amen.</string>
+	<string name="preghieraOrazione">Pomolimo se!</string>
+</resources>

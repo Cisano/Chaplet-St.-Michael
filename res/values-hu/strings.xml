@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Szent Mihály rózsafüzére</string>
+    <string name="textViewSegnoCroce">Az Atyának, a Fiúnak és a Szentlélek Istennek nevében Amen.</string>
+    <string name="padreNostro">Mi Atyánk, aki a mennyekben vagy, szenteltessék meg a te neved; jöjjön el a te országod; legyen meg a te akaratod, amint a mennyben, úgy a földön is. Mindennapi kenyerünket add meg nekünk ma; és bocsásd meg vétkeinket, miképpen mi is megbocsátunk az ellenünk vétkezőknek; és ne vígy minket kísértésbe, de szabadíts meg a gonosztól! Mert tiéd az ország, a hatalom és a dicsőség mindörökké. Ámen.</string>
+    <string name="aveMaria">Üdvözlégy Mária, kegyelemmel teljes, az Úr van teveled, áldott vagy te az asszonyok között, és áldott a te méhednek gyümölcse, Jézus Asszonyunk, Szűz Mária, Istennek Szent Anyja, imádkozzál érettünk bűnösökért, most és halálunk óráján! Amen.</string>
+    <string name="ioCredo">Hiszek Egy Istenben, mindenható Atyában, Mennynek és Földnek teremtőjében. és a Jézus Krisztusban, az Ő egyszülött Fiában, a mi Urunkban, aki fogantatott Szentlélektől, született Szűz Máriától, szenvedett Poncius Pilátus alatt, megfeszítették, meghalt és eltemették. Alászállt a poklokra, harmadnapon föltámadt a halottak közül, fölment a Mennybe, ott ül a Mindenható Atyaisten jobbján, onnan jön el ítélni élőket és holtakat. Hiszek a Szentlélekben. Hiszem az Egyetemes Anyaszent-egyházat, a szentek közösségét, a bűnök bocsánatát, a test feltámadását és az örök életet. Amen.</string>
+    <string name="saiComeSiRecita">Ismered ezt a rózsafüzért?</string>
+ 	<string name="YesButton">Igen</string>
+ 	<string name="NoButton">Nem</string>
+    <string name="End">Vége</string>
+    <string name="Promesse">Ígéretek</string>
+ 	<string name="Riavvia">Újrakezdés</string>
+ 	<string name="Info">Információ</string>
+ 	<string name="Cancel">Mégse</string>
+ 	<string name="OK">OK</string>
+ 	<string name="AudioSetting">Hangbeállítás</string>
+ 	<string name="avanzamentoAutomatico">Automatikus továbbítás (csak akkor működik, ha a hang be van kapcsolva)</string>
+ 	
+ 	<string name="Attenzione">Figyelem!</string>
+ 	<string name="vuoiRicominciare">Szeretnéd újrakezdeni?</string>
+
+<string name="drawer_open">Open Drawer</string>
+<string name="drawer_close">Close Drawer</string>
+
+<string name="not_available">Not available in this Android version</string>
+	<string name="oDio">Ó, Istenem, jöjj segítségemre! Ó, Istenem, ne késlekedj, segíts meg!</string>
+	<string name="PromesseMichele">Szent Mihály arkangyal megjelent Antonia d\\\'Astognacnak és elmondta, hogy szeretné, ha kilenc fohásszal tisztelnék őt. Megígérte, hogy aki ezt a rózsafüzért elmondja az ő tiszteletére, azt kilenc angyal fogja fogadni az angyalok kilenc karából, amikor a szent asztalhoz járul. Ha valaki naponta mondja ezt az imát, annak ezen felül egész életében szüntelen segítséget nyújtanak a szent angyalok, és halála után saját magának és rokonainak a tisztítótűzből való kiszabadulását is megígéri Szent Mihály.</string>
+    <string name="primaInvocazione">Szent Mihály és az égi szeráfkórusok közbenjárására tegyen minket az Úr méltóvá, hogy a tökéletes emberszeretet lángja lobogjon bennünk. Ámen.</string>
+	<string name="secondaInvocazione">Szent Mihály és a kerubok égi karának közbenjárására az Úr árasszon el minket kegyelmével, hogy a bűn útját elhagyjuk és tökéletes keresztény életet éljünk. Ámen.</string>
+	<string name="terzaInvocazione">Szent Mihály és az Isten tónusát körülálló égi szellemek közbenjárására öntsön az Úr szívünkbe igaz, és őszintén alázatos lelkületet. Ámen.</string>
+	<string name="quartaInvocazione">Szent Mihály és az uralkodó égi szellemek közbenjárására adjon az Úr kegyelmet, hogy féken tartsuk érzékeinket és leküzdjük káros szenvedélyeinket. Ámen.</string>
+	<string name="quintaInvocazione">Szent Mihály és az égi hatalmak közbenjárására az Úr kegyeskedjék megvédeni lelkünket az ördög incselkedései és kísértései ellen. Ámen.</string>
+	<string name="sestaInvocazione">Szent Mihály és az ég erőinek közbenjárására az Úr oltalmazzon meg minket minden gonosztól és ne engedje, hogy kísértésbe essünk. Ámen.</string>
+	<string name="settimaInvocazione">Szent Mihály és az égi fejedelmek karának közbenjárására töltse el az Úr lelkünket az engedelmesség igaz szellemével. Ámen.</string>
+	<string name="ottavaInvocazione">Szent Mihály és az arkangyalok közbenjárására adjon nekünk az Úr állhatatosságot a hitben és minden jó munkában, hogy elnyerhessük a paradicsom dicsőségét. Ámen.</string>
+	<string name="nonaInvocazione">Szent Mihály és az angyalok égi kórusának közbenjárására adja meg nekünk az Úr az ő védelmüket halandó életünkben, majd utána vezessen be minket az örök dicsőségbe. Ámen.</string>
+	<string name="preghieraFinale">Ó dicsőséges angyalfejedelem, Szent Mihály, a mennyei seregek feje és parancsolója, lelkünk őre, a lázadó lelkek legyőzője, az isteni Király házának szolgája és a mi csodálatos vezetőnk, aki kiváló és emberfeletti erényektől ragyogsz, segíts megszabadulnunk minden bűntől! Bizalommal fordulunk Hozzád, kegyes védelmeddel tégy alkalmassá, hogy egyre hűségesebben szolgálhassuk Istent!
+	\nImádkozzál érettünk, ó dicsőséges Szent Mihály, Jézus Krisztus Egyházának fejedelme, hogy méltók lehessünk Jézus ígéreteire!
+	\nMindenható örök Istenünk, aki jóságos akaratoddal és minden ember üdvösségét kívánó irgalmaddal Szent Mihály arkangyalt Egyházad fejedelmévé tetted, kérünk Téged, tégy minket méltóvá arra, hogy Szent Mihály megszabadítson minket minden ellenségünktől, halálunk óráján pedig bántalmazóinktól, és ő vezessen minket isteni Felséged magasságos jelenlétébe! Ámen.</string>
+	<string name="preghieraOrazione">Könyörögjünk!</string>
+
+	<string name="Audio">Hang</string>
+</resources>

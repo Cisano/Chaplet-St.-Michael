@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Coronilla a San Miguel Arcángel</string>
+
+	<!-- preghiere classiche -->
+    <string name="textViewSegnoCroce">En el nombre del Padre, y del Hijo, y del Espíritu Santo. Amén.</string>
+    <string name="padreNostro">Padre nuestro, que estás en el cielo. Santificado sea tu Nombre. Venga a nosotros tu reino. Hágase tu voluntad en la tierra como en el cielo. Danos hoy nuestro pan de cada día. Perdona nuestras ofensas, como también nosotros perdonamos a los que nos ofenden. No nos dejes caer en la tentación y líbranos del mal. Amén.</string>
+	<string name="aveMaria">Dios te salve, Maria. Llena eres de gracia: El Señor es contigo. Bendita tú eres entre todas las mujeres. Y bendito es el fruto de tu vientre: Jesús. Santa María, Madre de Dios, ruega por nosotros pecadores, ahora y en la hora de nuestra muerte. Amén.</string>
+	<string name="ioCredo">Creo en Dios, Padre todopoderoso, creador del Cielo y de la Tierra. Creo en Jesucristo su único Hijo, Nuestro Señor, que fue concebido por obra y gracia del Espíritu Santo; nació de Santa María Virgen; padeció bajo el poder de Poncio Pilato; fue crucificado, muerto y sepultado; descendió a los infiernos; al tercer día resucitó de entre los muertos; subió a los cielos y está a la derecha de Dios, Padre Todopoderoso; desde allí ha de venir a juzgar a vivos y muertos. Creo en el Espíritu Santo, la Santa Iglesia Católica, la comunión de los santos, el perdón de los pecados, la resurrección de la carne y la vida eterna. Amén.</string>
+	<string name="oDio">Oh Dios, ven en mi ayuda. Apresúrate, Señor a socorrerme.</string>
+	<string name="gloria">Gloria al Padre, y al Hijo, y al Espíritu Santo. Como era en el principio, ahora y siempre por los siglos de los siglos. Amén.</string>
+	<!-- preghiere classiche-->
+
+	<!-- preghiere san michele_intro -->
+	<string name="micheleDifendici">Oh San Miguel Arcángel, defiéndenos en la batalla para que no perezcamos en el tremendo juicio.</string>
+	<string name="primaInvocazione">Por la intercesión de San Miguel y el Coro Celestial de los Serafines, que Dios Nuestro Señor prepare nuestras almas y así recibir dignamente en nuestros corazones, el fuego de la Caridad Perfecta.</string>
+	<string name="secondaInvocazione">Por la intercesión de San Miguel y el Coro Celestial de los Querubines, que Dios Nuestro Señor nos conceda la gracia de abandonar los caminos del pecado, y seguir el camino de la Perfección Cristiana.</string>
+	<string name="terzaInvocazione">Por la intercesión de San Miguel y el Coro Celestial de los Tronos, que Dios Nuestro Señor derrame en nuestros corazones, el verdadero y sincero espíritu de humildad.</string>
+	<string name="quartaInvocazione">Por la intercesión de San Miguel y el Coro Celestial de Potestades, que Dios Nuestro Señor nos conceda la gracia de controlar nuestros sentidos y así dominar nuestras pasiones.</string>
+	<string name="quintaInvocazione">Por la intercesión de San Miguel y el Coro Celestial de Dominaciones, que Dios Nuestro Señor proteja nuestras almas contra las asechanzas del demonio.</string>
+	<string name="sestaInvocazione">Por la intercesión de San Miguel y el Coro Celestial de las Virtudes, que Dios Nuestro Señor nos conserve de todo mal y no nos deje caer en la tentación.</string>
+	<string name="settimaInvocazione">Por la intercesión de San Miguel y el Coro Celestial de los Principados, que Dios Nuestro Señor se digne llenar nuestras almas con el verdadero espíritu de obediencia.</string>
+	<string name="ottavaInvocazione">Por la intercesión de San Miguel y el Coro Celestial de Los Arcángeles, que Dios Nuestro Señor nos conceda la gracia de la perseverancia final en la Fe, y en las buenas obras, y así nos lleve a la Gloria del Paraíso.</string>
+	<string name="nonaInvocazione">Por la intercesión de San Miguel y el Coro Celestial de los Ángeles, que Dios Nuestro Señor nos conceda la gracia de ser protegidos por ellos durante esta vida mortal, y nos guíen a la Gloria Eterna.</string>
+	<string name="onoreSanMichele">Padre nuestro, en honor a San Miguel arcángel.</string>
+	<string name="onoreSanGabriele">Padre nuestro, en honor a San Gabriel arcángel.</string>
+	<string name="onoreSanRaffaele">Padre nuestro, en honor a San Rafael arcángel.</string>
+	<string name="onoreAngeloCustode">Padre nuestro, en honor a nuestro ángel de la Guarda.</string>
+	<string name="preghieraFinale">Glorioso San Miguel, caudillo y príncipe de los ejércitos celestiales, fiel custodio de las almas, vencedor de los espíritus rebeldes, familiar de la casa de Dios, admirable guía después de Jesucristo, de sobrehumana excelencia y virtud, dígnate librar de todo mal a cuantos confiadamente recurrimos a ti y haz que mediante tu incomparable protección adelantemos todos los días en el santo servicio de Dios.
+\nRuega por nosotros, glorioso San Miguel, Príncipe de la Iglesia de Jesucristo.
+\nPara que seamos dignos de alcanzar sus promesas.
+\nTodopoderoso y Eterno Dios, que por un prodigio de tu bondad y misericordia a favor de la común salvación de los hombres, escogiste por Príncipe de tu Iglesia al gloriosísimo Arcángel San Miguel, te suplicamos nos hagas dignos de ser librados por su poderosa protección de todos nuestros enemigos de modo que en la hora de la muerte ninguno de ellos logre perturbarnos, y podamos ser por él mismo introducidos en la mansión celestial para contemplar eternamente tu augusta y divina Majestad. Por los méritos de Jesucristo nuestro Señor. Amén.</string>
+	<string name="preghieraOrazione">Antifona y Oración.</string>
+	<!-- preghiere san michele_intro -->
+
+	<!-- varie -->
+	<string name="saiComeSiRecita">¿Sabes la coronilla?</string>
+	<string name="YesButton">Sí</string>
+	<string name="NoButton">No</string>
+    <string name="End">Finalizar</string>
+	<string name="Riavvia">Reiniciar</string>
+	<string name="Info">Info</string>
+	<string name="Cancel">Cancelar</string>
+	<string name="OK">OK</string>
+	<string name="AudioSetting">Configuración de audio</string>
+	<string name="Audio">Audio</string>
+	<string name="avanzamentoAutomatico">Avanzamento automatico (funziona solo se l\'audio è attivo)</string>
+	<string name="Donazione">Donation</string>
+	<string name="Attenzione">¡Atención</string>
+	<string name="vuoiRicominciare">¿Quieres reiniciar?</string>
+	<string name="Promesse">Promesas</string>
+    <string name="Coroncina">Coronilla</string>
+	<string name="not_available">No disponible en esta versión de Android</string>
+	<!-- varie -->
+
+	<!-- promesse coroncina san michele_intro -->
+	<string name="TitoloPromesseMichele">El Arcángel Miguel prometió a quien rece la coronilla</string>
+	<string name="PromesseMichele">Un día San Miguel Arcángel apareció a la devota Sierva de Dios Antonia De Astónac. El arcángel le dijo a la religiosa que deseaba ser honrado mediante la recitación de nueve salutaciones. Estas nueve plegarias corresponden a los nueve coros de ángeles.
+\nA los que practican esta devoción en su honor, San Miguel promete grandes bendiciones: Enviar un ángel de cada coro angelical para acompañar a los devotos a la hora de la Santa Comunión. Además, a los que recitasen estas nueve salutaciones todos los días, les asegura que disfrutarán de su asistencia continua. Es decir, durante esta vida y también después de la muerte. Aun mas, serán acompañados de todos los ángeles y con todos sus seres queridos, parientes y familiares serán librados del Purgatorio.\n</string>
+	<!-- promesse coroncina san michele_intro -->
+
+
+</resources>

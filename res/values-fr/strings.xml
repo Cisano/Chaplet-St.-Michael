@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Chapelet de Saint Michel Archange</string>
+
+	<!-- preghiere classiche -->
+    <string name="textViewSegnoCroce">Au nom du Père, et du Fils et du Saint-Esprit. Amen.</string>
+    <string name="padreNostro">Notre Père, qui es aux Cieux, Que ton nom soit sanctifié, Que ton règne vienne, Que ta volonté soit faite Sur la terre comme au ciel. Donne-nous aujourd\'hui notre pain de ce jour, Pardonne-nous nos offenses Comme nous pardonnons aussi à ceux qui nous ont offensés, Et ne nous laisse pas entrer en tentation, Mais délivre-nous du mal. Amen.</string>
+	<string name="aveMaria">Je vous salue, Marie pleine de grâces; Le Seigneur est avec vous. Vous êtes bénie entre toutes les femmes Et Jésus, le fruit de vos entrailles, est béni. Sainte Marie, Mère de Dieu, Priez pour nous, pauvres pécheurs, Maintenant, et à l\'heure de notre mort. Amen.</string>
+	<string name="ioCredo">Je crois en Dieu, le Père Tout-Puissant, Créateur du ciel et de la terre. Et en Jésus-Christ, son Fils unique, notre Seigneur, qui a été conçu du Saint Esprit, est né de la Vierge Marie, a souffert sous Ponce Pilate, a été crucifié, est mort et a été enseveli, est descendu aux enfers. Le troisième jour est ressuscité des morts, est monté aux cieux est assis à la droite de Dieu, le Père Tout-Puissant, d\'où Il viendra juger les vivants et les morts. Je crois en l\'Esprit Saint, à la sainte Église catholique, à la communion des saints, à la rémission des péchés, à la résurrection de la chair, à la vie éternelle. Amen.</string>
+	<string name="oDio">O Dieu viens à mon aide, Seigneur, hâte-toi de me secourir.</string>
+	<string name="gloria">Gloire au Père, au Fils, et au Saint-Esprit, comme il était au commencement, maintenant et toujours, et dans les siècles des siècles. Amen.</string>
+	<!-- preghiere classiche-->
+
+	<!-- preghiere san michele_intro -->
+	<string name="micheleDifendici">Saint Michel Archange, défendez-nous dans le combat pour que nous ne périssions pas au jour du Jugement.</string>
+	<string name="primaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste des Séraphins, que le Seigneur nous rende dignes d\'être enflammés d\'une parfaite charité.</string>
+	<string name="secondaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste des Chérubins, que le Seigneur nous fasse la grâce d\'abandonner la voie du péché et de courir dans celle de la perfection chrétienne.</string>
+	<string name="terzaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste des Trônes, que le Seigneur répande dans nos cœurs l\'esprit d\'une véritable et sincère humilité.</string>
+	<string name="quartaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste des Dominations, que le Seigneur nous fasse la grâce de dominer nos sens et de nous corriger de nos mauvaises passions.</string>
+	<string name="quintaInvocazione">Par l\'intercession de Saint Michel et du Chœur admirable des Vertus célestes, que le Seigneur ne nous laisse pas succomber à la tentation, mais qu\'il nous délivre du mal.</string>
+	<string name="sestaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste des Puissances, que le Seigneur daigne protéger nos âmes contre les embûches et les tentations du démon.</string>
+	<string name="settimaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste des Principautés, que le Seigneur remplisse nos âmes de l\'esprit d\'une véritable et sincère obéissance.</string>
+	<string name="ottavaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste des Archanges, que le Seigneur nous accorde le don de la Persévérance dans la foi et dans les bonnes œuvres, pour pouvoir arriver à la possession de la gloire du Paradis.</string>
+	<string name="nonaInvocazione">Par l\'intercession de Saint Michel et du Chœur céleste de tous les Anges, que le Seigneur daigne nous accorder d\'être gardés par eux pendant cette vie mortelle, pour être conduits ensuite à la gloire éternelle du ciel.</string>
+	<string name="onoreSanMichele">Notre Père, en l\'honneur de Saint Michel Archange.</string>
+	<string name="onoreSanGabriele">Notre Père, en l\'honneur de Saint Gabriel Archange.</string>
+	<string name="onoreSanRaffaele">Notre Père, en l\'honneur de Saint Raphaël Archange.</string>
+	<string name="onoreAngeloCustode">Notre Père, en l\'honneur de notre Ange gardien.</string>
+	<string name="preghieraFinale">Très glorieux saint Michel, chef et prince des armées célestes, gardien fidèle des âmes, vainqueur des esprits rebelles, favori de la Maison de Dieu, notre admirable guide après Jésus-Christ, vous dont l\'excellence et la vertu sont suréminentes: daignez nous délivrer de tous les maux, nous tous qui recourons à vous avec confiance, et faites, par votre incomparable protection, que nous avancions chaque jour dans la fidélité à servir Dieu.
+\nPriez pour nous, ô bienheureux saint Michel, Prince de l\'Eglise de Jésus-Christ.
+\nAfin que nous puissions être dignes de ses promesses.
+\nDieu éternel et tout-puissant, qui, par un prodige de bonté et de miséricorde, pour le Salut commun des hommes, avez choisi pour prince de votre Église le très glorieux Archange S. Michel, rendez-nous dignes, nous vous en prions, d\'être délivrés, par sa bienveillante protection, de tous nos ennemis, afin qu\'à notre mort aucun d\'eux ne puisse nous inquiéter, mais qu\'il nous soit donné d\'être introduits par lui en présence de votre puissante et auguste Majesté. Par les mérites de Jésus-Christ Notre-Seigneur. Ainsi soit-il.</string>
+	<string name="preghieraOrazione">Prions et Invocation.</string>
+	<!-- preghiere san michele_intro -->
+
+	<!-- varie -->
+	<string name="saiComeSiRecita">Pouvez-vous réciter le chapelet?</string>
+	<string name="YesButton">Oui</string>
+	<string name="NoButton">No</string>
+    <string name="End">Fin</string>
+	<string name="Riavvia">Redémarrer</string>
+	<string name="Info">Infos</string>
+	<string name="Cancel">Annuler</string>
+	<string name="OK">OK</string>
+	<string name="AudioSetting">Paramètre audio</string>
+	<string name="Audio">Audio</string>
+	<string name="avanzamentoAutomatico">Recitation automatique (uniquement si l\'audio est activé)</string>
+	<string name="Donazione">Donation</string>
+	<string name="Attenzione">Attention!</string>
+	<string name="vuoiRicominciare">Voulez-vous redémarrer?</string>
+	<string name="Promesse">Promesses</string>
+    <string name="Coroncina">Chapelet</string>
+	<string name="not_available">Non disponible dans cette version Android</string>
+	<!-- varie -->
+
+	<!-- promesse coroncina san michele_intro -->
+	<string name="TitoloPromesseMichele">Les promesses de Saint Michel</string>
+	<string name="PromesseMichele">Saint Michel révéla à Antonia d\'Astonac, dévouée servante de Dieu, qu\'il voulait que l\'on compose en son honneur neuf salutations correspondant aux neuf Choeurs des Anges avec un \'\'Notre Père\'\' et trois \'\'Je vois salue Marie\'\' en l\'honneur de chaque Choeur des Anges. Il promait, à ceux qui le venereraient de cette manière avant de prendre la communion, qu\'un ange de chacun des neuf Choeurs des Anges l\'accompagnera pour recevoir la communion.
+A ceux qui réciteraient ce Chapelet, il assurait sa protection continuelle pendant la vie, et, après la mort, la délivrance du purgatoire.\n</string>
+	<!-- promesse coroncina san michele_intro -->
+
+</resources>

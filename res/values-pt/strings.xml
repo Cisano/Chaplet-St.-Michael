@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Terço de São Miguel Arcanjo</string>
+
+	<!-- preghiere classiche -->
+    <string name="textViewSegnoCroce">Em nome do Pai, do Filho e do Espírito Santo. Amém.</string>
+    <string name="padreNostro">Pai Nosso Que estais nos Céus, Santificado seja o Vosso nome. Venha a nós o Vosso reino, Seja feita a Vossa vontade Assim na Terra como no Céu. O pão nosso de cada dia nos dai hoje. Perdoai-nos as nossas ofensas Assim como nós perdoamos a quem nos tem ofendido E não nos deixeis cair em tentação Mas livrai-nos do mal. Amém.</string>
+	<string name="aveMaria">Ave Maria cheia de graça, o Senhor é convosco. Bendita sois vós entre as mulheres, e bendito o fruto do vosso ventre, Jesus. Santa Maria, Mãe de Deus, rogai por nós, pecadores, agora e na hora da nossa morte. Amém.</string>
+	<string name="ioCredo">Creio em Deus Pai, todo-poderoso, Criador do céu e da terra. E em Jesus Cristo, seu único Filho nosso Senhor. Que foi concebido pelo poder do Espírito Santo, nasceu da Virgem Maria, padeceu sob Pôncio Pilatos, foi crucificado, morto e sepultado, desceu a mansão dos mortos, ressuscitou ao terceiro dia, subiu aos Céus está sentado à direita de Deus Pai Todo-Poderoso, donde há de vir julgar os vivos e mortos. Creio no Espírito Santo, na santa Igreja católica, na comunhão dos santos, na remissão dos pecados, na ressureição da carne, na vida eterna. Amém.</string>
+	<string name="oDio">Ó Deus, vinde em meu auxílio. Senhor, apressa-te em ajudar-me.</string>
+	<string name="gloria">Glória ao Pai e ao Filho e ao Espírito Santo. Como era no começo, é agora e sempre será. Amém.</string>
+	<!-- preghiere classiche-->
+
+	<!-- preghiere san michele_intro -->
+	<string name="micheleDifendici">São Miguel Arcanjo, defendei-nos na batalha, para que não pereçamos no dia do juízo.</string>
+	<string name="primaInvocazione">Pela intercessão de São Miguel Arcanjo e do Coro Celeste dos Serafins, o Senhor nos faça dignos do fogo da perfeita caridade.</string>
+	<string name="secondaInvocazione">Pela intercessão de São Miguel Arcanjo e do Coro Celeste dos Querubins, o Senhor nos conceda a graça de trilharmos a estrada da perfeição cristã.</string>
+	<string name="terzaInvocazione">Pela intercessão de São Miguel Arcanjo e do Coro Celeste dos Tronos, o Senhor nos conceda o espírito da verdadeira humildade.</string>
+	<string name="quartaInvocazione">Pela intercessão de São Miguel Arcanjo e do Coro Celeste das Dominações, o Senhor nos dê a graça de podermos dominar os nossos sentidos.</string>
+	<string name="quintaInvocazione">Pela intercessão de São Miguel Arcanjo e do Coro Celeste das Potestades, o Senhor nos guarde das traições e tentações do demónio.</string>
+	<string name="sestaInvocazione">Pela intercessão de São Miguel Arcanjo e do Coro Celeste das Virtudes, o Senhor nos conceda a graça de não sermos vencidos no combate perigoso das tentações.</string>
+	<string name="settimaInvocazione">Pela intercessão de São Miguel Arcanjo e do Coro Celeste dos Principados, o Senhor nos dê o espírito da verdadeira e sincera obediência.</string>
+	<string name="ottavaInvocazione">Pela intercessão de São Miguel Arcanjo e do Coro Celeste dos Arcanjos, o Senhor nos conceda o dom da perseverança na fé e boas obras, a fim de que possamos chegar a possuir a glória do Paraíso.</string>
+	<string name="nonaInvocazione">Pela intercessão de São Miguel Arcanjo e do Coro Celeste dos Anjos, o Senhor nos conceda que estes espíritos bem-aventurados nos guardem sempre, e principalmente na hora da nossa morte.</string>
+	<string name="onoreSanMichele">Pai Nosso a São Miguel Arcanjo.</string>
+	<string name="onoreSanGabriele">Pai Nosso a São Gabriel Arcanjo.</string>
+	<string name="onoreSanRaffaele">Pai Nosso a São Rafael Arcanjo.</string>
+	<string name="onoreAngeloCustode">Pai Nosso ao nosso Anjo da Guarda.</string>
+	<string name="preghieraFinale">Gloriosíssimo São Miguel, chefe e príncipe dos exércitos celestes, fiel guardião das almas, vencedor dos espíritos rebeldes, amado da casa de Deus, nosso admirável guia depois de Cristo; vós, cuja excelência e virtudes são eminentíssimas, dignai-vos livrar-nos de todos os males, nós todos que recorremos a vós com confiança, e fazei pela vossa incomparável proteção, que adiantemos cada dia mais na fidelidade em servir a Deus. Amém.
+	\nRogai por nós, ó bem-aventurado São Miguel, príncipe da Igreja de Cristo.
+	\nPara que sejamos dignos de suas promessas.
+	\nDeus, todo poderoso e eterno, que por um prodígio de bondade e misericórdia para a salvação dos homens, escolhestes para príncipe de Vossa Igreja o gloriosíssimo Arcanjo São Miguel, tornai-nos dignos, nós vo-lo pedimos, de sermos preservados de todos os nossos inimigos, a fim de que na hora da nossa morte nenhum deles nos possa inquietar, mas que nos seja dado de sermos introduzidos por ele na presença da Vossa poderosa e augusta Majestade, pelos merecimentos de Jesus Cristo, Nosso Senhor. Amém.</string>
+	<string name="preghieraOrazione">Antifona e Oração.</string>
+	<!-- preghiere san michele_intro -->
+
+	<!-- varie -->
+	<string name="saiComeSiRecita">Você sabe rezar o terço?</string>
+	<string name="YesButton">Sim</string>
+	<string name="NoButton">Não</string>
+    <string name="End">Fim</string>
+	<string name="Riavvia">Reiniciar</string>
+	<string name="Info">Informação</string>
+	<string name="Cancel">Anular</string>
+	<string name="OK">OK</string>
+	<string name="AudioSetting">Configurações de áudio</string>
+	<string name="Audio">Audio</string>
+	<string name="avanzamentoAutomatico">Avançamento automático (funciona só se o áudio está ativado)</string>
+	<string name="Donazione">Doação</string>
+	<string name="Attenzione">Atenção!</string>
+	<string name="vuoiRicominciare">Deseja reiniciar?</string>
+	<string name="Promesse">Promessas</string>
+    <string name="Coroncina">Terço</string>
+	<string name="not_available">Não está dispinível para essa versão do Android</string>
+	<!-- varie -->
+
+	<!-- promesse coroncina san michele_intro -->
+	<string name="TitoloPromesseMichele">Promessas de São Miguel Arcanjo</string>
+	<string name="PromesseMichele">1) A quem o honrasse desta maneira antes da Sagrada Comunhão seria acompanhado à Sagrada Mesa por um Anjo de cada um dos nove Coros;
+\n2) A quem rezasse todos os dias essas nove saudações teria a sua assistência e a dos Santos Anjos durante a sua vida e que depois da morte livraria do Purgatório a essa pessoa e aos seus parentes.
+\n\n\nAtravés da recitação deste Terço obter-se-ão ainda muitas graças nas calamidades públicas, sobretudo nas da Igreja Católica (de que São Miguel Arcanjo é o padroeiro perpétuo), e as indulgências que lhe foram atribuídas pelo Papa Pio IX.\n</string>
+	<!-- promesse coroncina san michele_intro -->
+
+</resources>

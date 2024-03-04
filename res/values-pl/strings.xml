@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Koronka do św. Michała Archanioła</string>
+    <string name="textViewSegnoCroce">W Imię Ojca i Syna, i Ducha Świętego. Amen.</string>
+    <string name="padreNostro">Ojcze nasz, któryś jest w niebie, święć się imię Twoje, przyjdź królestwo Twoje, bądź wola Twoja jako w niebie tak i na ziemi. Chleba naszego powszedniego daj nam dzisiaj. I odpuść nam nasze winy, jak i my odpuszczamy naszym winowajcom. I nie wódź nas na pokuszenie, ale zbaw nas ode złego. Amen.</string>
+    <string name="aveMaria">Zdrowaś Maryjo, łaski pełna, Pan z Tobą, błogosławionaś Ty między niewiastami i błogosławiony owoc żywota Twojego, Jezus. Święta Maryjo, Matko Boża, módl się za nami grzesznymi teraz i w godzinę śmierci naszej. Amen.</string>
+    <string name="ioCredo">Wierzę w Boga, Ojca Wszechmogącego, Stworzyciela nieba i ziemi. I w Jezusa Chrystusa, Syna Jego Jedynego, Pana Naszego, który się począł z Ducha Świętego, narodził się z Maryi Panny. Umęczon pod Ponckim Piłatem ukrzyżowan, umarł i pogrzebion. Zstąpił do piekieł. Trzeciego dnia zmartwychwstał; wstąpił na niebiosa, siedzi po prawicy Boga, Ojca wszechmogącego. Stamtąd przyjdzie sądzić żywych i umarłych. Wierzę w Ducha Świętego, święty Kościół powszechny, świętych obcowanie, grzechów odpuszczenie, ciała zmartwychwstanie, żywot wieczny. Amen</string>
+    <string name="saiComeSiRecita">Czy wiesz jak odmówić koronkę?</string>
+ 	<string name="YesButton">Tak</string>
+ 	<string name="NoButton">Nie</string>
+    <string name="End">Zakończ</string>
+    <string name="Promesse">Obietnice</string>
+ 	<string name="Coroncina">Koronka</string>
+ 	<string name="Riavvia">Restartuj</string>
+ 	<string name="Info">Informacje</string>
+ 	<string name="Cancel">Anulować</string>
+ 	<string name="OK">OK</string>
+ 	<string name="AudioSetting">Ustawienia dźwięku</string>
+ 	<string name="Audio">Audio</string>
+ 	<string name="avanzamentoAutomatico">Automatic forward (works only if the audio is ON)</string>
+ 	
+ 	<string name="Attenzione">Uwaga!</string>
+ 	<string name="vuoiRicominciare">Czy chcesz rozpocząć modlitwę</string>
+
+<string name="not_available">Niedostępne w tej wersji Android</string>
+	<string name="gloria">Chwała Ojcu i Synowi, i Duchowi Świętemu. Jak była na początku, teraz i zawsze, i na wieki wieków. Amen.</string>
+	<string name="secondaInvocazione">Za przyczyną św. Michała Archanioła i niebiańskiego Chóru Cherubinów udziel nam, Panie, łaski opuszczenia drogi grzechu, a postępowania drogą doskonałości chrześcijańskiej. Amen.</string>
+	<string name="terzaInvocazione">Za przyczyną św. Michała Archanioła i niebiańskiego Chóru Tronów wlej, Panie, w serca nasze ducha prawdziwej i szczerej pokory. Amen.</string>
+	<string name="quartaInvocazione">Za przyczyną św. Michała Archanioła i niebiańskiego Chóru Panowań daj nam, Panie, łaskę panowania nad naszymi zmysłami i naprawienia skażonych namiętności. Amen.</string>
+	<string name="quintaInvocazione">Za przyczyną św. Michała Archanioła i niebiańskiego Chóru Mocarstw zachowaj, Panie, dusze nasze od zasadzek i pokus szatana. Amen.</string>
+	<string name="sestaInvocazione">Za przyczyną św. Michała Archanioła i Chóru przedziwnych Potęg niebiańskich użycz nam, Panie, zwycięstwa w pokusach i zbaw ode złego. Amen.</string>
+	<string name="settimaInvocazione">Za przyczyną św. Michała Archanioła i niebiańskiego Chóru Księstw napełnij nas, Panie, duchem prawdziwego i szczerego posłuszeństwa. Amen.</string>
+	<string name="ottavaInvocazione">Za przyczyną św. Michała Archanioła i niebiańskiego Chóru Archaniołów obdarz nas, Panie, wytrwałością w wierze iw dobrych uczynkach, abyśmy mogli osiągnąć chwałę w niebiosach. Amen.</string>
+	<string name="nonaInvocazione">Za przyczyną św. Michała Archanioła i niebiańskiego Chóru wszystkich Aniołów spraw, Panie, abyśmy doznając od nich opieki w tym życiu zostali zaprowadzeni do chwały wiecznej w niebie. Amen.</string>
+	<string name="primaInvocazione">Za przyczyną św. Michała Archanioła i niebiańskiego Chóru Serafinów zapal nas, Panie ogniem doskonałej miłości. Amen.</string>
+	<string name="onoreSanMichele">Na cześć św. Michała Archanioła Ojcze nasz.</string>
+	<string name="onoreSanGabriele">Na cześć św. Gabriela Archanioła Ojcze nasz.</string>
+	<string name="onoreSanRaffaele">Na cześć św. Rafała Archanioła Ojcze nasz.</string>
+	<string name="onoreAngeloCustode">Na cześć swego Anioła Stróża Ojcze nasz.</string>
+	<string name="oDio">Boże wejrzyj ku wspomożeniu memu. Panie, pospiesz ku ratunkowi memu.</string>
+	<string name="preghieraFinale">Najchwalebniejszy Książę św. Michale, Zwierzchniku i Wodzu zastępów niebieskich, obrońco dusz, pogromco zbuntowanych duchów, przyboczny sługo królewskiego Domu Bożego, a po Jezusie Chrystusie przedziwny nasz Hetmanie, racz w swej nadziemskiej doskonałości i mocy ratować od złego nas, którzy z ufnością uciekamy się do Ciebie; spraw; abyśmy pod skrzydłami Twej niezrównanej opieki codziennie postępowali w wiernej służbie naszego Boga.
+	\nPrzybądź, św. Michale Archaniele
+	\nNa pomoc ludowi Bożemu.
+	\nWszechmogący wieczny Boże, który cudem dobroci i miłosierdzia dla zbawienia wszystkich ludzi wybrałeś chwalebnego Archanioła św. Michała na Księcia swego Kościoła, dozwól błagamy, aby ten święty Archanioł uwolnił nas swą dobroczynną prawicą od wszelkich nieprzyjaciół tak tych, którzy nas teraz dręczą, jak i tych którzy w godzinę śmierci czyhać będą Ba naszą zgubą oraz by zaprowadził nas przed oblicze Majestatu Twego. Przez zasługi Jezusa Chrystusa Pana naszego. Amen.</string>
+	<string name="preghieraOrazione">Antyfona i Módlmy się.</string>
+</resources>
